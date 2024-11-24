@@ -18,10 +18,11 @@ nav {
     background-color: transparent;
     padding: 10px;
     align-items: center;
+    
 }
 
 nav a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 10px 15px;
     display: inline-block;
